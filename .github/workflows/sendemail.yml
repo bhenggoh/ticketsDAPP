@@ -37,3 +37,4 @@ jobs:
           echo test, and deploy your project.
           curl -X POST -H "Content-Type: application/json" -d "{\"value1\":\"123\"}" https://maker.ifttt.com/trigger/sendemail/with/key/${{mysecret:IFTTT_KEY}}
           
+          
