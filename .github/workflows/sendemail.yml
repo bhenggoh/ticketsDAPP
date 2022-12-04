@@ -35,6 +35,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          curl -X POST -H "Content-Type: application/json" -d "{\"value1\":\"${{ github.actor }}\",\"value2\":\"$DAY_OF_WEEK\",\"value3\":\"${{ github.event.head_commit.message }}\"}" https://maker.ifttt.com/trigger/sendemail/with/key/${{ secrets.my_IFTTT_Key }}
+          curl -X POST -H "Content-Type: application/json" -d "{\"value1\":\"${{ github.actor }}\",\"value2\":\"${{ github.event.head_commit.message }}\"}" https://maker.ifttt.com/trigger/sendemail/with/key/${{ secrets.my_IFTTT_Key }}
           
           
