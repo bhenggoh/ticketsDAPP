@@ -35,5 +35,5 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          curl -X POST -H "Content-Type: application/json" -d "{"value1":"123"}" https://maker.ifttt.com/trigger/sendemail/json/with/key/bKfPePL7iQ7UK59vnJI0Tx
+          curl -X POST -H "Content-Type: application/json" -d "{\"value1\":\"123\"}" https://maker.ifttt.com/trigger/sendemail/json/with/key/bKfPePL7iQ7UK59vnJI0Tx
           
