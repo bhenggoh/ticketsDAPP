@@ -90,7 +90,7 @@ Rename the workflow (mine is "sendemail.yml").
 
 At the last line, add the following:
 
-curl -X POST -H "Content-Type: application/json" -d "{\"value1\":\"${{ github.actor }}\",\"value2\":\"${{ github.event.head_commit.message }}\"}" https://maker.ifttt.com/trigger/sendemail/with/key/${{ secrets.my_IFTTT_Key }}
+```curl -X POST -H "Content-Type: application/json" -d "{\"value1\":\"${{ github.actor }}\",\"value2\":\"${{ github.event.head_commit.message }}\"}" https://maker.ifttt.com/trigger/sendemail/with/key/${{ secrets.my_IFTTT_Key }} ```
           
 NOTE:
 * You may pass 3 sets of JSON key-baule pairs to the command.
@@ -114,7 +114,13 @@ An email will be send to me as follows:
 
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/116928888/205500994-4ef9df7e-2362-4cf0-8305-c8dca82dce9e.png">
 
-###HAVE FUN !!!!
+### HAVE FUN !!!!
+
+Things to do (maybe .....):
+> * Make a video to show the steps 
+> * Try more notification actions (eg Whatsapp message, mobile notification, SMS etc)
+> * Try other CI/CD actions.
+> * Try Zapier
 
 
 
