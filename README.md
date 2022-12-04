@@ -136,9 +136,9 @@ At the last line, add the following:
           
 NOTE:
 * You may pass 3 sets of JSON key-baule pairs to the command.
-** *${{ github.actor }}* refers to the person doing the commit
-** *${{ github.event.head_commit.message }}* refers to the title of the commit.
-** For Windows, the double quotations need to be escaped (\")
+  * *${{ github.actor }}* refers to the person doing the commit
+  * *${{ github.event.head_commit.message }}* refers to the title of the commit.
+  * For Windows, the double quotations need to be escaped (\")
 * "sendemail" is the name of the trigger you have just set up earlier.
 * "secrets:my_IFTTT_Key" is the secret key (IFTTT_Key) you have stored in the environment (my_secret).
 
@@ -160,7 +160,9 @@ An email will be send to me as follows:
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/116928888/205500994-4ef9df7e-2362-4cf0-8305-c8dca82dce9e.png">
 </p>
 
+<span style="color:red">
 ### HAVE FUN !!!!
+</style>
 
 Things to do (maybe .....):
 > * Make a video to show the steps 
