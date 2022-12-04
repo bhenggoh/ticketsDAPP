@@ -160,9 +160,9 @@ An email will be send to me as follows:
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/116928888/205500994-4ef9df7e-2362-4cf0-8305-c8dca82dce9e.png">
 </p>
 
-<span style="color:red">
-### HAVE FUN !!!!
-</style>
+<span style="color:green;font-weight:700;font-size:20px">
+    HAVE FUN !!!!! 
+</span>
 
 Things to do (maybe .....):
 > * Make a video to show the steps 
