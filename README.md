@@ -92,8 +92,7 @@ Select "Documentation" button.
 
 You will go into the following screen where you can find the secret key at the top of the page. Copy the secret key.
 
-![nDzcTMpYuOKh](https://user-images.githubusercontent.com/116928888/205502513-81487eac-6534-43b3-93cb-169ccdb25b64.jpg)
-
+![secret key](https://user-images.githubusercontent.com/116928888/205502634-8a00b3a2-5a07-4454-8ba0-9cb6adff1146.jpg)
 
 ## Step 4 - Store the secret key in GitHub.
 
