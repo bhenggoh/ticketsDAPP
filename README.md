@@ -2,8 +2,10 @@
 
 This app allows user to purchase concert tickets using their Metamask wallet.
 
+<p align="center">
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/116928888/205491492-6b808390-0bf0-4789-a9f5-4ee6b8c6b358.png">
-
+</p>
+          
 It is still a Work-In-Progress and so code changes and git commits are expected.
 
 Here, I will describe how to integrate GitHub with IFTTT using webhooks to enable an email to me sent to me when there is a commit done.
