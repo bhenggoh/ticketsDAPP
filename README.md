@@ -38,7 +38,7 @@ Then, select the "Send me an email" option.
 
 YOu may wish to customize the email message.
 
-<img width="281" alt="image" src="https://user-images.githubusercontent.com/116928888/205499840-31f57107-b91f-4485-98d8-559c04374e18.png">
+<img width="284" alt="image" src="https://user-images.githubusercontent.com/116928888/205500357-6e60e956-febc-4c9c-b2a4-c2f412ed41b0.png">
 
 Click "Create action" to complete the applet creation.
 
