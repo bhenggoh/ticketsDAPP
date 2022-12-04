@@ -65,7 +65,7 @@
   "sourceMap": "27:724:1:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;27:724:1;;;;;;;",
   "deployedSourceMap": "27:724:1:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;27:724:1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;217:357;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;217:357:1;;;;;;;;;;;;;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;164:25;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;164:25:1;;;;;;;;;;;;;;;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;609:135;;;:::i;:::-;;;;;;;;;;;23:1:-1;8:100;33:3;30:1;27:10;8:100;;;99:1;94:3;90:11;84:18;80:1;75:3;71:11;64:39;52:2;49:1;45:10;40:15;;8:100;;;12:14;609:135:1;;;;;;;;;;;;;;;;217:357;268:4;370:1;357:9;:14;;:33;;;;;388:2;375:9;:15;;357:33;349:42;;;;;;477:10;457:6;464:9;457:17;;;;;;;;;:30;;;;;;;;;;;;;;;;;;557:9;550:16;;217:357;;;:::o;164:25::-;;;;;;;;;;;;;;;;;;;;;;;:::o;609:135::-;651:18;;:::i;:::-;730:6;723:13;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;609:135;:::o;27:724::-;;;;;;;;;;;29:2:-1;21:6;17:15;117:4;105:10;97:6;88:34;148:4;140:6;136:17;126:27;;0:157;27:724:1;;;;:::o",
   "source": "pragma solidity ^0.5.0;\r\n\r\ncontract Ticket {\r\n\r\n    // Array containing each ticket's buyer's Ethereum Address.\r\n    // Index to array is 0 to 15 (16 tickets)\r\n    address[16] public buyers;\r\n\r\n    // Buy ticket\r\n    function buyTicket(uint _ticketID) public returns (uint) {\r\n\r\n        // Make sure that the _ticketID is between 0 and 15 \r\n        require(_ticketID >= 0 && _ticketID <= 16);\r\n\r\n        // Write the buyer's Address into the array\r\n        buyers[_ticketID] = msg.sender;\r\n\r\n        // Return the _ticketID for confirmation\r\n        return _ticketID;\r\n    }\r\n\r\n    // Get all the buyers\r\n    function getBuyers() public view returns (address[16] memory) {\r\n\r\n        // Return the array of buyers\r\n        return buyers;\r\n    }\r\n\r\n\r\n}",
-  "sourcePath": "C:\\Users\\bheng\\OneDrive\\Desktop\\Move to Ext HDD\\GICT\\ticketsDAPP\\contracts\\Ticket.sol",
+  "sourcePath": "C:\\Users\\bheng\\OneDrive\\Desktop\\Move to Ext HDD\\GICT\\ticketsDAPP\\ticketsDAPP\\contracts\\Ticket.sol",
   "ast": {
     "absolutePath": "project:/contracts/Ticket.sol",
     "exportedSymbols": {
@@ -1247,12 +1247,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x63908B122fC057661E886fFf88F00BBD070088E8",
-      "transactionHash": "0x463434341e0621544b0b59dcca275204a3658a04e733fb221e218b353bcfbaa3"
+      "address": "0x63cb2ac08d0B8Be18D032600A1B938f5bC575a04",
+      "transactionHash": "0xec4b96351145d7189f0055cfb236e21f106353b3ce9a62f0959086dab4e3ee1f"
     }
   },
   "schemaVersion": "3.4.11",
-  "updatedAt": "2022-12-04T10:04:46.695Z",
+  "updatedAt": "2022-12-04T12:41:11.589Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
