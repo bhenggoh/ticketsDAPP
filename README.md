@@ -90,13 +90,15 @@ Rename the workflow (mine is "sendemail.yml").
 
 At the last line, add the following:
 
-curl -X POST -H "Content-Type: application/json" -d "{\"value1\":\"123\"}" https://maker.ifttt.com/trigger/sendemail/with/key/${{ secrets.my_IFTTT_Key }}
+curl -X POST -H "Content-Type: application/json" -d "{\"value1\":\"${{ github.actor }}\",\"value2\":\"${{ github.event.head_commit.message }}\"}" https://maker.ifttt.com/trigger/sendemail/with/key/${{ secrets.my_IFTTT_Key }}
           
 NOTE:
-* "value1":"123" is part of the JSON payload you want to send via the email. You can have up to 3 key-value pair for the payload.
-* For Windows, the double quotations need to be escaped (\")
+* You may pass 3 sets of JSON key-baule pairs to the command.
+** ${{ github.actor }} refers to the person doing the commit
+** ${{ github.event.head_commit.message }} refers to the title of the commit.
+** For Windows, the double quotations need to be escaped (\")
 * "sendemail" is the name of the trigger you have just set up earlier.
-* "mysecret:IFTTT_Key" is the secret key (IFTTT_Key) you have stored in the environment (my_secret).
+* "secrets:my_IFTTT_Key" is the secret key (IFTTT_Key) you have stored in the environment (my_secret).
 
 Commit the change.
 
