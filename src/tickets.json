@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Adele",
+    "picture": "images/adele.jpeg",
+    "price": "$150",
+    "date": "January 2023",
+    "location": "Singapore"
+  },
+  {
+    "id": 1,
+    "name": "Andy Lau",
+    "picture": "images/andylau.jpeg",
+    "price": "$100",
+    "date": "March  2023",
+    "location": "Singapore"
+  },
+  {
+    "id": 2,
+    "name": "Ariana Grande",
+    "picture": "images/arianagrande.jpeg",
+    "price": "$150",
+    "date": "July 2023",
+    "location": "Singapore"
+  },
+  {
+    "id": 3,
+    "name": "Black Eye Pea",
+    "picture": "images/blackeyepea.jpeg",
+    "price": "$160",
+    "date": "February 2023",
+    "location": "Singapore"
+  },
+  {
+    "id": 4,
+    "name": "Black Pink",
+    "picture": "images/blackpink.jpeg",
+    "price": "$120",
+    "date": "March 2023",
+    "location": "Singapore"
+  },
+  {
+    "id": 5,
+    "name": "Dua Lipa",
+    "picture": "images/dualipa.jpeg",
+    "price": "$160",
+    "date": "August 2023",
+    "location": "Singapore"
+  },
+  {
+    "id": 6,
+    "name": "Ed Sheeran",
+    "picture": "images/edsheeran.jpeg",
+    "price": "$180",
+    "date": "April 2023",
+    "location": "Singapore"
+  },
+  {
+    "id": 7,
+    "name": "Eric Clapton",
+    "picture": "images/ericclapton.jpeg",
+    "price": "$140",
+    "date": "May 2023",
+    "location": "Singapore"
+  },
+  {
+    "id": 8,
+    "name": "Harry Styles",
+    "picture": "images/harrystyles.jpeg",
+    "price": "$150",
+    "date": "June 2023",
+    "location": "Singapore"
+  },
+  {
+    "id": 9,
+    "name": "Jay Chou",
+    "picture": "images/jaychou.jpeg",
+    "price": "$150",
+    "date": "January 2023",
+    "location": "Singapore"
+  },
+  {
+    "id": 10,
+    "name": "JJ Lin",
+    "picture": "images/jj.jpeg",
+    "price": "$160",
+    "date": "October 2023",
+    "location": "Singapore"
+  },
+  {
+    "id": 11,
+    "name": "Jolin Tsai",
+    "picture": "images/jolintsai.jpeg",
+    "price": "$120",
+    "date": "March 2023",
+    "location": "Singapore"
+  },
+  {
+    "id": 12,
+    "name": "Karen Mok",
+    "picture": "images/karenmok.jpeg",
+    "price": "$120",
+    "date": "June 2023",
+    "location": "Singapore"
+  },
+  {
+    "id": 13,
+    "name": "Shakira",
+    "picture": "images/shakira.jpeg",
+    "price": "$180",
+    "date": "September 2023",
+    "location": "Singapore"
+  },
+  {
+    "id": 14,
+    "name": "Stephanie Sun",
+    "picture": "images/stephaniesun.jpeg",
+    "price": "$130",
+    "date": "November 2023",
+    "location": "Singapore"
+  },
+  {
+    "id": 15,
+    "name": "Taylor Swift",
+    "picture": "images/taylorswift.jpeg",
+    "price": "$160",
+    "date": "June 2023",
+    "location": "Singapore"
+  }
+]
