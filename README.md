@@ -93,9 +93,7 @@ Select "Documentation" button.
 You will go into the following screen where you can find the secret key at the top of the page. Copy the secret key.
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/116928888/205492479-4819d1b1-7906-4f72-bd6c-cce943058162.png)
-</p>
-
+![nDzcTMpYuOKh](https://user-images.githubusercontent.com/116928888/205502513-81487eac-6534-43b3-93cb-169ccdb25b64.jpg)</p>
 ## Step 4 - Store the secret key in GitHub.
 
 Go to Settings for the repo. Select "Actions" button (left panel under "Security->Secrets").
@@ -160,7 +158,7 @@ An email will be send to me as follows:
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/116928888/205500994-4ef9df7e-2362-4cf0-8305-c8dca82dce9e.png">
 </p>
 
-<span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+### HAVE FUN !!!!
 
 Things to do (maybe .....):
 > * Make a video to show the steps 
