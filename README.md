@@ -16,7 +16,7 @@ Here, I will describe how to integrate GitHub with IFTTT using webhooks to send 
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/116928888/205529041-a1c006f4-d227-4704-b664-ff0af5952260.png">
 </p>
 
-## Step 1 - Create a new applet in IFTTT and add a trigger.
+## Step :one: - Create a new applet in IFTTT and add a trigger.
 
 <p align="center">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/116928888/205491368-9fbc7d9c-2c0d-49b9-892b-331ce996f3f1.png">
@@ -40,7 +40,7 @@ Enter an Event Name. This is important as the name will be part of the final URL
 <img width="431" alt="image" src="https://user-images.githubusercontent.com/116928888/205491798-86ec1496-03f5-444b-ad3e-0971ce580ce7.png">
 </p>
 
-## Step 2 - Add an action (when the trigger is fired).
+## Step :two: - Add an action (when the trigger is fired).
 
 <p align="center">
 <img width="345" alt="image" src="https://user-images.githubusercontent.com/116928888/205491916-1affad35-07ef-4ca6-815c-2a8841515bd9.png">
@@ -82,7 +82,7 @@ Now, the applet is connected and ready to be used.
 <img width="228" alt="image" src="https://user-images.githubusercontent.com/116928888/205494865-4f6535e1-29db-4527-b0f0-e2d3091ac670.png">
 </p>
 
-## Step 3 - Get your secret key and URL
+## Step :three: - Get your secret key and URL
 
 Go to the IFTTT main page (click on the IFTTT icon on the top left side of the screen). Enter "webhook" in the search field.
 
@@ -100,7 +100,7 @@ You will go into the following screen where you can find the secret key at the t
 
 ![secret key](https://user-images.githubusercontent.com/116928888/205502634-8a00b3a2-5a07-4454-8ba0-9cb6adff1146.jpg)
 
-## Step 4 - Store the secret key in GitHub.
+## Step :four: - Store the secret key in GitHub.
 
 Go to Settings for the repo. Select "Actions" button (left panel under "Security->Secrets").
 
@@ -114,7 +114,7 @@ Create a "New repository secret", give it a name (Mine is "my_IFTTT_Key"), add p
 <img width="470" alt="image" src="https://user-images.githubusercontent.com/116928888/205492751-3991d8ed-a8c4-4040-b5f5-d5fc77912a31.png">
 </p>
 
-## Step 5 - Create an Action in GitHub.
+## Step :five: - Create an Action in GitHub.
 
 Go to the "Actions" tab, and enter "simple workflow" in the search bar.
 
@@ -154,7 +154,7 @@ Commit the change.
 
 So, now the GitHub action is integrated to the IFTTT trigger. 
 
-## Step 6 - Test the workflow :heart_eyes:
+## Step :six: - Test the workflow :satisfied:
 
 Now, perform a commit to any file in the repo.
 
@@ -164,7 +164,7 @@ An email will be send to me as follows:
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/116928888/205500994-4ef9df7e-2362-4cf0-8305-c8dca82dce9e.png">
 </p>
 
-### HAVE FUN !!!!
+### HAVE FUN !!!! :heart_eyes: :heart_eyes: 
 
 Things to do (maybe .....):
 > * Make a video to show the steps 
