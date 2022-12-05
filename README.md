@@ -17,7 +17,7 @@ It is still a Work-In-Progress :construction_worker: and so code changes and git
 Here, I will describe how to integrate Github with IFTTT using webhooks to send me an email when there is a commit done (for projects where there are collaborators).
 
 <p align="center">
-<img width="637" alt="image" src="https://user-images.githubusercontent.com/116928888/205529041-a1c006f4-d227-4704-b664-ff0af5952260.png">
+<kbd><img width="637" alt="image" src="https://user-images.githubusercontent.com/116928888/205529041-a1c006f4-d227-4704-b664-ff0af5952260.png">
 </p>
 
 <details><summary>Step :one: - Create a new applet in IFTTT and add a trigger.</summary>
