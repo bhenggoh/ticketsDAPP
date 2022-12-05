@@ -139,7 +139,7 @@ At the last line, add the following:
 ```curl -X POST -H "Content-Type: application/json" -d "{\"value1\":\"${{ github.actor }}\",\"value2\":\"${{ github.event.head_commit.message }}\"}" https://maker.ifttt.com/trigger/sendemail/with/key/${{ secrets.my_IFTTT_Key }} ```
           
 NOTE:
-* You may pass 3 sets of JSON key-baule pairs to the command.
+* You may pass 3 sets of JSON key-value pairs to the command.
   * *${{ github.actor }}* refers to the person doing the commit
   * *${{ github.event.head_commit.message }}* refers to the title of the commit.
   * For Windows, the double quotations need to be escaped (\")
