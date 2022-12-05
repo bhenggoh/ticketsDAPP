@@ -1,7 +1,8 @@
 # Tickets Purchase App using Smart Contract (my first :point_up: Blockchain Smart Contract project)
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
-<a href="/donate">DONATE</a>
+<div style="background-color:rgba(4,4,4)">
+PPPPPP
+
 </div>
 
 This app allows user to purchase concert tickets using their Metamask wallet.
