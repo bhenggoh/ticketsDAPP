@@ -10,7 +10,7 @@ It is still a Work-In-Progress and so code changes and git commits are expected.
 
 ---
 
-Here, I will describe how to integrate GitHub with IFTTT using webhooks to enable an email to me sent to me when there is a commit done (for projects where there are collaborators).
+Here, I will describe how to integrate GitHub with IFTTT using webhooks to send me an email when there is a commit done (for projects where there are collaborators).
 
 <p align="center">
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/116928888/205529041-a1c006f4-d227-4704-b664-ff0af5952260.png">
