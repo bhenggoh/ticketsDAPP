@@ -194,6 +194,7 @@ An email :email: will be send to me as follows:
 
 <details><summary>What next :question:</summary>
 
+
 Things to do (maybe .....):
 > - [ ] Make a video to show the steps using Scribe
 > - [X] :heavy_check_mark: Try more notification actions (eg Whatsapp message, mobile notification, SMS etc) [IFFFT doesn't support Whatsapp :sob:] 
