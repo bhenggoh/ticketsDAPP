@@ -25,7 +25,8 @@ Here, I will describe how to integrate Github with IFTTT using webhooks to send 
 ## Step :one: - Create a new applet in IFTTT and add a trigger.
 
 <p align="center">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/116928888/205491368-9fbc7d9c-2c0d-49b9-892b-331ce996f3f1.png">
+|<img width="960" alt="image" src="https://user-images.githubusercontent.com/116928888/205491368-9fbc7d9c-2c0d-49b9-892b-331ce996f3f1.png">|
+-
 </p>
 
 Add a Trigger. Select Webhook.
