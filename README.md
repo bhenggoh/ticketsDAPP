@@ -5,7 +5,7 @@
 This app allows user to purchase concert tickets using their Metamask wallet.
 
 <p align="center">
-<img width="428" alt="image" border="15px solid #FFFFFF" src="https://user-images.githubusercontent.com/116928888/205491492-6b808390-0bf0-4789-a9f5-4ee6b8c6b358.png">
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/116928888/205491492-6b808390-0bf0-4789-a9f5-4ee6b8c6b358.png">
 </p>
           
 It is still a Work-In-Progress :construction_worker: and so code changes and git commits are expected.
@@ -24,7 +24,7 @@ Here, I will describe how to integrate GitHub with IFTTT using webhooks to send 
 
 ## Step :one: - Create a new applet in IFTTT and add a trigger.
 
-          <p align="center">
+<p align="center">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/116928888/205491368-9fbc7d9c-2c0d-49b9-892b-331ce996f3f1.png">
 </p>
 
