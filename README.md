@@ -142,7 +142,7 @@ NOTE:
 * You may pass 3 sets of JSON key-value pairs to the command.
   * *${{ github.actor }}* refers to the person doing the commit
   * *${{ github.event.head_commit.message }}* refers to the title of the commit.
-  * For Windows, the double quotations need to be escaped (\")
+  * For Windows, the double quotations need to be escaped with a backlash.
 * "sendemail" is the name of the trigger you have just set up earlier.
 * "secrets:my_IFTTT_Key" is the secret key (IFTTT_Key) you have stored in the environment (my_secret).
 
