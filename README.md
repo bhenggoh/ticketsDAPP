@@ -1,10 +1,7 @@
 # Tickets Purchase App using Smart Contract (my first :point_up: Blockchain Smart Contract project)
 
-<div style="background-color:rgba(4,4,4)">
-PPPPPP
-
-</div>
-
+<details><summary>CLICK ME</summary>
+          
 This app allows user to purchase concert tickets using their Metamask wallet.
 
 <p align="center">
@@ -12,7 +9,7 @@ This app allows user to purchase concert tickets using their Metamask wallet.
 </p>
           
 It is still a Work-In-Progress :construction_worker: and so code changes and git commits are expected.
-
+</details>
 ---
 
 Here, I will describe how to integrate GitHub with IFTTT using webhooks to send me an email when there is a commit done (for projects where there are collaborators).
