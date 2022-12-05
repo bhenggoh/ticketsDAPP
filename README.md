@@ -47,6 +47,8 @@ Enter an Event Name. This is important as the name will be part of the final URL
 </p>
 </details>
 
+<details><summary>Step :two: - Add an action (when the trigger is fired).</summary>
+
 ## Step :two: - Add an action (when the trigger is fired).
 
 <p align="center">
@@ -88,7 +90,9 @@ Now, the applet is connected and ready to be used.
 <p align="center">
 <img width="228" alt="image" src="https://user-images.githubusercontent.com/116928888/205494865-4f6535e1-29db-4527-b0f0-e2d3091ac670.png">
 </p>
+</details>
 
+<details><summary>Step :three: - Get your secret key :secret: and URL</summary>
 ## Step :three: - Get your secret key :secret: and URL
 
 Go to the IFTTT main page (click on the IFTTT icon on the top left side of the screen). Enter "webhook" in the search field.
@@ -107,6 +111,10 @@ You will go into the following screen where you can find the secret key at the t
 
 ![secret key](https://user-images.githubusercontent.com/116928888/205502634-8a00b3a2-5a07-4454-8ba0-9cb6adff1146.jpg)
 
+</details>
+
+<details><summary>Step :four: - Store the secret key in GitHub.</summary>
+
 ## Step :four: - Store the secret key in GitHub.
 
 Go to Settings for the repo. Select "Actions" button (left panel under "Security->Secrets").
@@ -120,6 +128,10 @@ Create a "New repository secret", give it a name (Mine is "my_IFTTT_Key"), add p
 <p align="center">
 <img width="470" alt="image" src="https://user-images.githubusercontent.com/116928888/205492751-3991d8ed-a8c4-4040-b5f5-d5fc77912a31.png">
 </p>
+
+</details>
+
+<details><summary>Step :five: - Create an Action in GitHub.</summary>
 
 ## Step :five: - Create an Action in GitHub.
 
@@ -161,6 +173,10 @@ Commit the change.
 
 So, now the GitHub action is integrated to the IFTTT trigger. :fireworks: :sparkler: :tada: 
 
+</details>
+
+<details><summary>Step :six: - Test the workflow :satisfied:</summary>
+
 ## Step :six: - Test the workflow :satisfied:
 
 Now, perform a commit to any file in the repo.
@@ -171,7 +187,11 @@ An email :email: will be send to me as follows:
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/116928888/205500994-4ef9df7e-2362-4cf0-8305-c8dca82dce9e.png">
 </p>
 
+</details>
+
 ### HAVE FUN !!!! :heart_eyes: :heart_eyes: 
+
+<details><summary>What next :question:</summary>
 
 Things to do (maybe .....):
 > * Make a video to show the steps 
@@ -179,5 +199,6 @@ Things to do (maybe .....):
 > * Try other CI/CD actions.
 > * Try Zapier
 
+</details>
 
 
