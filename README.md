@@ -82,7 +82,7 @@ Now, the applet is connected and ready to be used.
 <img width="228" alt="image" src="https://user-images.githubusercontent.com/116928888/205494865-4f6535e1-29db-4527-b0f0-e2d3091ac670.png">
 </p>
 
-## Step :three: - Get your secret key and URL
+## Step :three: - Get your secret key :secret: and URL
 
 Go to the IFTTT main page (click on the IFTTT icon on the top left side of the screen). Enter "webhook" in the search field.
 
@@ -152,13 +152,13 @@ Commit the change.
 <img width="340" alt="image" src="https://user-images.githubusercontent.com/116928888/205493322-dbcc5fa9-1900-452c-9ba5-3f329c13575b.png">
 </p>
 
-So, now the GitHub action is integrated to the IFTTT trigger. 
+So, now the GitHub action is integrated to the IFTTT trigger. :fireworks: :sparkler: :tada: 
 
 ## Step :six: - Test the workflow :satisfied:
 
 Now, perform a commit to any file in the repo.
 
-An email will be send to me as follows:
+An email :email: will be send to me as follows:
 
 <p align="center">
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/116928888/205500994-4ef9df7e-2362-4cf0-8305-c8dca82dce9e.png">
