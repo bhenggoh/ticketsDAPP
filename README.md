@@ -195,10 +195,10 @@ An email :email: will be send to me as follows:
 <details><summary>What next :question:</summary>
 
 Things to do (maybe .....):
-> * Make a video to show the steps 
-> * Try more notification actions (eg Whatsapp message, mobile notification, SMS etc)
-> * Try other CI/CD actions.
-> * Try Zapier
+> - [ ] Make a video to show the steps 
+> - [ ] Try more notification actions (eg Whatsapp message, mobile notification, SMS etc)
+> - [ ] Try other CI/CD actions.
+> - [ ] Try Zapier
 
 </details>
 
