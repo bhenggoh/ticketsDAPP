@@ -93,6 +93,7 @@ Now, the applet is connected and ready to be used.
 </details>
 
 <details><summary>Step :three: - Get your secret key :secret: and URL</summary>
+
 ## Step :three: - Get your secret key :secret: and URL
 
 Go to the IFTTT main page (click on the IFTTT icon on the top left side of the screen). Enter "webhook" in the search field.
