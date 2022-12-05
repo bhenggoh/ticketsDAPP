@@ -20,9 +20,11 @@ Here, I will describe how to integrate GitHub with IFTTT using webhooks to send 
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/116928888/205529041-a1c006f4-d227-4704-b664-ff0af5952260.png">
 </p>
 
-<details><summary>## Step :one: - Create a new applet in IFTTT and add a trigger.</summary>
+<details><summary>Step :one: - Create a new applet in IFTTT and add a trigger.</summary>
 
-<p align="center">
+## Step :one: - Create a new applet in IFTTT and add a trigger.
+
+          <p align="center">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/116928888/205491368-9fbc7d9c-2c0d-49b9-892b-331ce996f3f1.png">
 </p>
 
