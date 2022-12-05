@@ -1,4 +1,8 @@
-# Tickets Purchase App using Smart Contract (my first Blockchain Smart Contract project)
+# Tickets Purchase App using Smart Contract (my first :point_up: Blockchain Smart Contract project)
+
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
+<a href="/donate">DONATE</a>
+</div>
 
 This app allows user to purchase concert tickets using their Metamask wallet.
 
@@ -6,7 +10,7 @@ This app allows user to purchase concert tickets using their Metamask wallet.
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/116928888/205491492-6b808390-0bf0-4789-a9f5-4ee6b8c6b358.png">
 </p>
           
-It is still a Work-In-Progress and so code changes and git commits are expected.
+It is still a Work-In-Progress :construction_worker: and so code changes and git commits are expected.
 
 ---
 
