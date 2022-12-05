@@ -154,7 +154,7 @@ Commit the change.
 
 So, now the GitHub action is integrated to the IFTTT trigger. 
 
-## Step 6 - Test the workflow
+## Step 6 - Test the workflow :heart_eyes:
 
 Now, perform a commit to any file in the repo.
 
