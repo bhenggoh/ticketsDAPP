@@ -1,6 +1,6 @@
 # Tickets Purchase App using Smart Contract (my first :point_up: Blockchain Smart Contract project)
 
-<details><summary>CLICK ME</summary>
+<details><summary>App info</summary>
           
 This app allows user to purchase concert tickets using their Metamask wallet.
 
@@ -9,7 +9,9 @@ This app allows user to purchase concert tickets using their Metamask wallet.
 </p>
           
 It is still a Work-In-Progress :construction_worker: and so code changes and git commits are expected.
+
 </details>
+
 ---
 
 Here, I will describe how to integrate GitHub with IFTTT using webhooks to send me an email when there is a commit done (for projects where there are collaborators).
@@ -18,7 +20,7 @@ Here, I will describe how to integrate GitHub with IFTTT using webhooks to send 
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/116928888/205529041-a1c006f4-d227-4704-b664-ff0af5952260.png">
 </p>
 
-## Step :one: - Create a new applet in IFTTT and add a trigger.
+<details><summary>## Step :one: - Create a new applet in IFTTT and add a trigger.</summary>
 
 <p align="center">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/116928888/205491368-9fbc7d9c-2c0d-49b9-892b-331ce996f3f1.png">
@@ -41,6 +43,7 @@ Enter an Event Name. This is important as the name will be part of the final URL
 <p align="center">
 <img width="431" alt="image" src="https://user-images.githubusercontent.com/116928888/205491798-86ec1496-03f5-444b-ad3e-0971ce580ce7.png">
 </p>
+</details>
 
 ## Step :two: - Add an action (when the trigger is fired).
 
