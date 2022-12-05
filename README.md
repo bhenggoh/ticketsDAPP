@@ -174,6 +174,8 @@ Commit the change.
 
 So, now the GitHub action is integrated to the IFTTT trigger. :fireworks: :sparkler: :tada: 
 
+The final workflow code is [here](https://github.com/bhenggoh/ticketsDAPP/edit/main/.github/workflows/sendemail.yml)
+
 </details>
 
 <details><summary>Step :six: - Test the workflow :satisfied:</summary>
