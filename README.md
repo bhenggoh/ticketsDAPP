@@ -1,4 +1,4 @@
-# Tickets Purchase App using Smart Contract (my first :point_up: ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) Blockchain Smart Contract project)
+# Tickets Purchase App using Smart Contract (my first :point_up: ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) Blockchain Smart Contract project) 
 
 <details><summary>App info</summary>
           
