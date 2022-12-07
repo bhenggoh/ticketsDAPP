@@ -14,7 +14,6 @@ It is still a Work-In-Progress :construction_worker: and so code changes and git
 
 ---
 
-
 Here, I will describe how to integrate Github with IFTTT using webhooks to send me an email when there is a commit done (for projects where there are collaborators).
 
 <p align="center">
