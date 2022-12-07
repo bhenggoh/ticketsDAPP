@@ -203,6 +203,12 @@ Things to do (maybe .....):
 > - [ ] Try other CI/CD actions.
 > - [ ] Try Zapier
 
+LATEST: Found this app Paddly that can easily integrate GitHub with Gmail without having to go through the GitHub workflow. 
+
+<p align="center">
+<kbd><img width="358" alt="image" src="https://user-images.githubusercontent.com/116928888/206163488-969ca720-d612-4375-8c0d-417db1358a4e.png">
+</p>
+
 </details>
           
           
