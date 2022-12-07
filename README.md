@@ -10,6 +10,7 @@ This app allows user to purchase concert tickets using their Metamask wallet.
           
 It is still a Work-In-Progress :construction_worker: and so code changes and git commits are expected.
 
+
 </details>
 
 ---
