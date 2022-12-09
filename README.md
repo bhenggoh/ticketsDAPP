@@ -200,8 +200,10 @@ An email :email: will be send to me as follows:
 Things to do (maybe .....):
 > - [ ] Make a video to show the steps using Scribe
 > - [X] :heavy_check_mark: Try more notification actions (eg Whatsapp message, mobile notification, SMS etc) [IFFFT doesn't support Whatsapp :sob:] 
+> - [X] Try CD to deploy on Netlify -- Tried but app didn't work with Netlify .......
 > - [ ] Try other CI/CD actions.
 > - [ ] Try Zapier
+
 
 **LATEST**: Found this app Paddly that can easily integrate GitHub with Gmail without having to go through the GitHub workflow. 
 
